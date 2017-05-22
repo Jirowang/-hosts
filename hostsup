@@ -1,3 +1,10 @@
+# Copyright (c) 2014-2017, jirowang.
+# https://github.com/jirowang/-hosts
+# Last updated: 2017-05-22
+
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 # Modified Hosts Start
 
 # Localhost (DO NOT REMOVE) Start
@@ -6,12 +13,6 @@
 ::1	ip6-localhost
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
-
-# Amazon AWS Start
-
-# Go Hosts
-# 2017-05-14 17:40:23
-
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
