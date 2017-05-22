@@ -13,7 +13,7 @@
 ::1	ip6-localhost
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
-
+# Start
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
 219.76.4.14	www.google.com
@@ -8886,6 +8886,6 @@
 23.57.244.158	scdn.line-apps.com
 23.63.22.24	scdn.line-apps.com
 69.192.179.250	scdn.line-apps.com
-# Youtube End
+#  End
 
 # Modified Hosts End
